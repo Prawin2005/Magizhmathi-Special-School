@@ -1,0 +1,725 @@
+# ANNAI – INTEGRATED CHILD DEVELOPMENT CENTRE
+## Complete Website Implementation Plan
+
+**Project Location:** Woraiyur, Tiruchirappalli, Tamil Nadu
+
+**Brand Identity:** ANNAI – Integrated Child Development Centre
+
+**Associated Identity:** Magizhmathi Special School – An initiative of ANNAI Charitable Trust.
+
+**Brand Tagline:** Every Child Deserves a Chance to Shine.
+
+---
+
+# 1. PROJECT OBJECTIVE
+
+Develop a premium, modern, professional and fully responsive website for ANNAI – Integrated Child Development Centre.
+
+The website should position ANNAI as a trusted child development organisation offering rehabilitation, early intervention, therapy and special education.
+
+The website must communicate:
+
+- Trust and compassion.
+- Professional care.
+- Child development and individual attention.
+- Inclusive education.
+- Parent engagement.
+- A welcoming and supportive environment.
+
+This must be a fully functional website, not just a static design.
+
+# 2. BRAND IDENTITY AND DESIGN SYSTEM
+
+## Colour Palette
+
+Use a White + Blue colour combination inspired by the supplied Magizhmathi logo.
+
+| Colour | Hex Code | Usage |
+|---|---|---|
+| Royal Blue | #244A87 | Primary brand colour |
+| Sky Blue | #078BC5 | Secondary colour |
+| White | #FFFFFF | Main background |
+| Ice Blue | #EFF6FC | Section backgrounds |
+| Light Grey | #E8EDF5 | Borders and dividers |
+| Soft Gold | #D9A441 | Small accent details |
+
+### Colour Distribution
+
+- White: 55%
+- Ice Blue: 25%
+- Royal Blue: 15%
+- Sky Blue: 4%
+- Soft Gold: 1%
+
+### Logo Guidelines
+
+- Use the original logo provided by the user.
+- Do not modify its colours, proportions or design.
+- Preserve the original aspect ratio.
+- Display the logo in the navbar and footer.
+- Use the ANNAI identity as the primary website identity.
+- Present Magizhmathi Special School within the Special School section.
+
+### Typography
+
+- Headings: Poppins.
+- Body text: Nunito.
+- Use clear font hierarchy.
+- Maintain excellent readability across desktop and mobile.
+
+### Design Style
+
+- Premium healthcare website aesthetic.
+- Clean white backgrounds.
+- Large professional photographs.
+- Modern editorial layouts.
+- Generous whitespace.
+- Rounded image corners.
+- Elegant buttons.
+- Subtle shadows.
+- Smooth animations.
+- Child-friendly illustrations used sparingly.
+
+Avoid excessive cartoon illustrations, crowded layouts and repetitive card designs.
+
+# 3. WEBSITE STRUCTURE
+
+Build the following seven main sections.
+
+## 3.1 HOME PAGE
+
+Create a visually impressive homepage.
+
+### Navbar
+- ANNAI logo.
+- Home.
+- About Us.
+- Our Services.
+- Special School.
+- Facilities.
+- Gallery.
+- Contact Us.
+- Make an Enquiry button.
+
+Navbar requirements:
+- Sticky navigation.
+- Responsive mobile menu.
+- Smooth navigation.
+- Clean hover effects.
+
+### Hero Section
+
+Main heading:
+
+"Every Child Deserves a Chance to Shine."
+
+Supporting text:
+
+"Supporting every child's unique journey through specialised therapies, early intervention, rehabilitation and inclusive education."
+
+CTA buttons:
+- Explore Our Services.
+- Make an Enquiry.
+
+Use a large, professional child development photograph.
+
+### Additional Homepage Sections
+
+1. Organisation introduction.
+2. Our services overview.
+3. Why Choose ANNAI.
+4. Special School introduction.
+5. Facilities preview.
+6. Parent testimonials.
+7. Gallery preview.
+8. Contact CTA.
+9. Professional footer.
+
+Make the homepage visually rich and engaging.
+
+## 3.2 ABOUT US
+
+Include:
+
+- Organisation profile.
+- About ANNAI.
+- Vision.
+- Mission.
+- Core values.
+- Our approach to child development.
+
+Use an image-and-text editorial layout.
+
+Do not invent organisation history, achievements or certifications.
+
+## 3.3 OUR SERVICES
+
+Create six individual service sections.
+
+### Occupational Therapy
+Focus on daily living skills, fine motor skills and functional independence.
+
+### Speech Therapy
+Focus on speech, language and communication development.
+
+### Physiotherapy
+Focus on movement, mobility and physical development.
+
+### Sensory Integration
+Focus on sensory processing and sensory experiences.
+
+### Behavioural Intervention
+Focus on individualised behavioural support.
+
+### Early Intervention
+Focus on early developmental support and individual learning needs.
+
+Each service should have:
+
+- Relevant photograph.
+- Service title.
+- Description.
+- Key focus areas.
+- Enquiry button.
+
+Do not make unsupported medical claims or guarantee treatment outcomes.
+
+## 3.4 SPECIAL SCHOOL
+
+Showcase Magizhmathi Special School.
+
+Include:
+
+- Educational programmes.
+- Individualised learning.
+- Life skills development.
+- Activity-based learning.
+- Classroom activities.
+- Learning environment.
+- Parent involvement.
+
+Use an attractive educational layout with relevant photography.
+
+## 3.5 FACILITIES
+
+Showcase the centre's infrastructure.
+
+Include:
+
+- Occupational therapy rooms.
+- Speech therapy rooms.
+- Physiotherapy spaces.
+- Sensory integration rooms.
+- Special education classrooms.
+- Activity areas.
+
+Use actual centre photographs when available.
+
+## 3.6 GALLERY
+
+Create a modern gallery experience.
+
+Features:
+
+- Responsive image grid.
+- Masonry-style layout.
+- Category filtering.
+- Image lightbox.
+- Full-screen image preview.
+- Video gallery support.
+- Mobile-friendly navigation.
+
+Gallery content must be manageable through the admin panel.
+
+Only publish children's photographs with appropriate authorisation and parent/guardian consent.
+
+## 3.7 CONTACT US
+
+Include:
+
+- Location: Woraiyur, Tiruchirappalli, Tamil Nadu.
+- Phone number.
+- WhatsApp number.
+- Email address.
+- Google Maps integration.
+- Enquiry form.
+- Appointment request form.
+- Working hours.
+
+Use placeholders until verified contact information is provided.
+
+# 4. UI/UX DESIGN REQUIREMENTS
+
+The website should look like a professionally designed healthcare and child development website.
+
+### Visual Requirements
+
+- Premium hero section.
+- Large typography.
+- Beautiful photography.
+- Modern image layouts.
+- Alternating white and ice-blue sections.
+- Royal blue primary buttons.
+- Sky blue secondary buttons.
+- Subtle gold accents.
+- Consistent spacing.
+- Smooth scrolling.
+- Responsive navigation.
+
+### Animations
+
+Use Framer Motion for:
+
+- Fade-in animations.
+- Scroll reveal.
+- Smooth section transitions.
+- Button hover effects.
+- Image hover effects.
+- Subtle card animations.
+
+Avoid excessive animation.
+
+### Responsive Design
+
+Support:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+
+The mobile experience must be designed carefully, not just scaled down from desktop.
+
+# 5. TECHNOLOGY STACK
+
+## Frontend
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- React Router.
+- Framer Motion.
+- Lucide React.
+- React Hook Form.
+- Zod.
+
+## Backend
+
+- Python.
+- FastAPI.
+- Pydantic.
+
+## Database
+
+- Supabase PostgreSQL.
+- Supabase Authentication.
+- Supabase Storage.
+
+## Deployment
+
+- Vercel – Frontend.
+- Render – Backend.
+- Supabase – Database and storage.
+
+Maintain clean and reusable code architecture.
+
+# 6. BACKEND FUNCTIONALITY
+
+Build a proper FastAPI backend.
+
+Required API modules:
+
+### Enquiry API
+- Submit enquiry.
+- Validate form data.
+- Store enquiry in database.
+- Retrieve enquiries for authorised admins.
+- Update enquiry status.
+
+### Appointment API
+- Submit appointment request.
+- Validate date and time.
+- Store appointment details.
+- Allow admins to manage requests.
+
+Appointment requests must not automatically be treated as confirmed bookings.
+
+### Gallery API
+- Upload images.
+- Retrieve published gallery items.
+- Update gallery information.
+- Delete gallery items.
+- Manage publication status.
+
+### Content API
+- Retrieve services.
+- Retrieve facilities.
+- Retrieve testimonials.
+- Allow authorised admins to update content.
+
+# 7. ADMIN DASHBOARD
+
+Build a separate protected admin dashboard.
+
+Admin URL: /admin
+
+### Admin Login
+- Secure authentication.
+- Protected routes.
+- Logout functionality.
+- Proper authorisation.
+
+### Dashboard Overview
+
+Display:
+
+- Total enquiries.
+- New enquiries.
+- Pending appointments.
+- Recent submissions.
+
+### Admin Modules
+
+1. Enquiry Management.
+2. Appointment Management.
+3. Gallery Management.
+4. Services Management.
+5. Facilities Management.
+6. Testimonials Management.
+
+### Gallery Management
+
+Admins should be able to:
+
+- Upload images.
+- Add image titles.
+- Add descriptions.
+- Categorise images.
+- Publish and unpublish images.
+- Delete images.
+
+### Enquiry Management
+
+Admins should be able to:
+
+- View parent enquiries.
+- View contact details.
+- View requested services.
+- Update enquiry status.
+- Track pending and completed enquiries.
+
+The admin dashboard must have proper backend authentication and database security. Do not rely only on frontend route protection.
+
+# 8. DATABASE DESIGN
+
+Use Supabase PostgreSQL.
+
+Create the following tables:
+
+### Admins
+- id
+- email
+- role
+- created_at
+
+### Enquiries
+- id
+- parent_name
+- phone
+- email
+- service
+- message
+- status
+- created_at
+
+### Appointments
+- id
+- parent_name
+- phone
+- service
+- preferred_date
+- preferred_time
+- message
+- status
+- created_at
+
+### Services
+- id
+- title
+- slug
+- description
+- image
+- published
+- created_at
+
+### Facilities
+- id
+- title
+- description
+- image
+- published
+- created_at
+
+### Gallery
+- id
+- title
+- image_url
+- category
+- media_type
+- published
+- created_at
+
+### Testimonials
+- id
+- display_name
+- message
+- approved
+- published
+- created_at
+
+Use UUIDs, timestamps, database constraints and suitable indexes.
+
+Implement Row Level Security (RLS).
+
+Private parent information must never be publicly accessible.
+
+# 9. WHATSAPP INTEGRATION
+
+Add a floating WhatsApp button.
+
+Features:
+
+- Fixed bottom-right position.
+- WhatsApp icon.
+- Direct WhatsApp link.
+- Prefilled enquiry message.
+- Responsive mobile behaviour.
+
+Use the actual organisation's WhatsApp number once provided.
+
+# 10. ENQUIRY AND APPOINTMENT FORMS
+
+### Enquiry Form
+
+Fields:
+
+- Parent/Guardian Name.
+- Phone Number.
+- Email.
+- Service Required.
+- Message.
+- Consent to be contacted.
+
+### Appointment Form
+
+Fields:
+
+- Parent/Guardian Name.
+- Phone Number.
+- Service Required.
+- Preferred Date.
+- Preferred Time.
+- Additional Message.
+
+Requirements:
+
+- Form validation.
+- Required field validation.
+- Phone validation.
+- Loading state.
+- Success message.
+- Error handling.
+- Backend integration.
+- Spam protection.
+
+# 11. SEO AND PERFORMANCE
+
+Implement:
+
+- SEO-friendly page titles.
+- Meta descriptions.
+- Open Graph metadata.
+- Sitemap.xml.
+- Robots.txt.
+- Semantic HTML.
+- Image alt attributes.
+- Responsive images.
+- Lazy loading.
+- Optimised assets.
+- Fast page loading.
+- Accessible forms.
+- Keyboard navigation.
+
+Use verified organisation details for structured data. Never invent reviews, ratings or business information.
+
+# 12. PROJECT FOLDER STRUCTURE
+
+annai-website/
+
+frontend/
+- public/
+- src/
+  - assets/
+  - components/
+  - pages/
+  - layouts/
+  - admin/
+  - hooks/
+  - services/
+  - types/
+  - styles/
+  - App.tsx
+
+backend/
+- app/
+  - routes/
+  - models/
+  - schemas/
+  - services/
+  - core/
+  - main.py
+- requirements.txt
+
+docs/
+README.md
+.env.example
+
+Keep the code modular and maintainable.
+
+# 13. IMPLEMENTATION PHASES
+
+## PHASE 1 – Project Foundation
+
+- Initialise React + TypeScript.
+- Configure Tailwind CSS.
+- Configure fonts.
+- Create global colour variables.
+- Install dependencies.
+- Add logo.
+- Setup routing.
+- Build responsive navbar.
+- Build footer.
+
+## PHASE 2 – Complete Frontend
+
+- Homepage.
+- About Us.
+- Services.
+- Special School.
+- Facilities.
+- Gallery.
+- Contact Us.
+- Animations.
+- Responsive layouts.
+
+Complete and visually review the entire public website before moving to backend development.
+
+## PHASE 3 – Backend
+
+- FastAPI setup.
+- Supabase connection.
+- Database schema.
+- Enquiry APIs.
+- Appointment APIs.
+- Gallery APIs.
+- Content APIs.
+- Validation and error handling.
+
+## PHASE 4 – Admin Dashboard
+
+- Admin authentication.
+- Dashboard overview.
+- Enquiry management.
+- Appointment management.
+- Gallery management.
+- Content management.
+- Secure access control.
+
+## PHASE 5 – Integration
+
+- Connect frontend to backend.
+- Connect forms.
+- Integrate WhatsApp.
+- Integrate Google Maps.
+- Integrate gallery storage.
+- Test all functionality.
+
+## PHASE 6 – Testing and Deployment
+
+- Desktop testing.
+- Mobile testing.
+- Tablet testing.
+- API testing.
+- Form validation testing.
+- Authentication testing.
+- Security checks.
+- SEO checks.
+- Performance optimisation.
+- Vercel deployment.
+- Render deployment.
+- Production verification.
+
+# 14. FINAL QUALITY CHECKLIST
+
+Before submitting the project, verify:
+
+- Correct logo displayed.
+- White and blue branding applied consistently.
+- All seven website sections implemented.
+- Six services represented.
+- Premium UI/UX.
+- Fully responsive design.
+- Functional navigation.
+- Working enquiry form.
+- Working appointment request.
+- WhatsApp integration.
+- Correct Google Maps location.
+- Functional gallery.
+- Approved testimonials only.
+- Protected admin dashboard.
+- Database connected.
+- Secure API endpoints.
+- SEO implemented.
+- No broken links.
+- No console errors.
+- Successful live deployment.
+
+# 15. IMPORTANT INSTRUCTIONS FOR ANTIGRAVITY
+
+Read this entire IMPLEMENTATION.md file before writing code.
+
+Follow the implementation plan carefully.
+
+Do not skip any requirements.
+
+Do not generate the entire project carelessly in one step.
+
+Work phase by phase.
+
+First inspect the workspace and available logo assets.
+
+Use the exact supplied logo.
+
+Never invent organisation details, phone numbers, testimonials, certifications, achievements or operating hours.
+
+Use clearly marked placeholders for missing information.
+
+Prioritise professional UI/UX, clean code, accessibility, responsiveness and functionality.
+
+After implementing each phase:
+
+1. Run the project.
+2. Inspect the actual website.
+3. Test the implemented features.
+4. Fix errors.
+5. Review responsive behaviour.
+6. Update the README.
+
+Start with PHASE 1 and PHASE 2 only.
+
+Do not begin backend development until the frontend is complete and visually reviewed.
+
+The final result must be a professional, production-oriented website that represents ANNAI's commitment to every child's development.
+
+**Remember: Every Child Deserves a Chance to Shine.**
